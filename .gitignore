@@ -15,5 +15,8 @@ Build/
 *.log
 *.tmp
 
+# Temporary testing file
+test.cpp
+
 # macOS
 .DS_Store
